@@ -1,0 +1,7 @@
+C:\systems\ClassyGraph\ClassyGraph\bin\Debug\ClassyGraph.exe.config
+C:\systems\ClassyGraph\ClassyGraph\bin\Debug\ClassyGraph.exe
+C:\systems\ClassyGraph\ClassyGraph\bin\Debug\ClassyGraph.pdb
+C:\systems\ClassyGraph\ClassyGraph\obj\Debug\ClassyGraph.csprojResolveAssemblyReference.cache
+C:\systems\ClassyGraph\ClassyGraph\obj\Debug\ClassyGraph.csproj.CoreCompileInputs.cache
+C:\systems\ClassyGraph\ClassyGraph\obj\Debug\ClassyGraph.exe
+C:\systems\ClassyGraph\ClassyGraph\obj\Debug\ClassyGraph.pdb
